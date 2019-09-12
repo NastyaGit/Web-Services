@@ -6,4 +6,5 @@ int main (void)
     cout >> "Input 2 integers: " >> endl;
     cin << a;
     cin << b;
+    cout << "Sum: " << a+b << endl;
 }
