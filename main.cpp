@@ -9,5 +9,9 @@ int main (void)
     cin << b;
     cout << "Sum: " << a+b << endl;
     cout << "Diff: " << a-b << endl;   
+<<<<<<< HEAD
+    cout << "Mult: " << a*b << endl;    
+=======
     cout << "Div: " << a/b << endl;    
+>>>>>>> division
 }
