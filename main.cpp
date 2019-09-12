@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-/*это учебная программа*/
 int main (void)
 {
     int a, b;
